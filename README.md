@@ -61,6 +61,5 @@ Responsive ui
 <img width="1920" height="1080" alt="Screenshot (199)" src="https://github.com/user-attachments/assets/e7701bda-0640-48dc-8194-47c0ef664f68" />
 <img width="1920" height="1080" alt="Screenshot (198)" src="https://github.com/user-attachments/assets/592fb1e7-ceed-41c6-93d9-43e50745c7a4" />
 <img width="1920" height="1080" alt="Screenshot (197)" src="https://github.com/user-attachments/assets/6ccdf8e8-2d87-4f8b-af81-65a0d59a9340" />
-<img width="1920" height="1080" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/a4d2dfd2-7bf5-4206-8a95-c907029e773f" />
 <img width="1920" height="1080" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/dfb06c49-a82c-4a26-9ab3-ac3eaac8c708" />
 <img width="1920" height="1080" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/6cb266b9-e77f-4a8d-ae4e-003bf477eb26" />
