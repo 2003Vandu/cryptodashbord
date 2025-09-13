@@ -36,8 +36,6 @@ A **Crypto Dashboard UI** built with React to visualize cryptocurrency data. Thi
 - npm 
 
 ### Installation
-
-```bash
 # Clone the repository
 git clone <your-repo-url>
 cd crypto-dashboard-ui
