@@ -52,6 +52,8 @@ All transactions and charts are mocked/fake.
 
 Designed for UI showcase and learning purposes.
 
+Responsive ui 
+
 **Screenshort UI**
 
 <img width="1920" height="1080" alt="Screenshot (201)" src="https://github.com/user-attachments/assets/a533c5c5-51b9-4e03-947c-b337a4192741" />
