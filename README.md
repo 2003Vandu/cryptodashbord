@@ -1,12 +1,66 @@
-# React + Vite
+# Crypto Dashboard UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **Crypto Dashboard UI** built with React to visualize cryptocurrency data. This is a **frontend-only demo** with **fake transactions and charts**, intended for **learning or showcase purposes**.
 
-Currently, two official plugins are available:
+> ⚠️ This project does **not handle real money** and works **only on localhost**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- **Dashboard Page:**  
+  - Displays **fake crypto balances**  
+  - Shows **price trend charts**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Transaction Page:**  
+  - Lists **fake transactions**  
+  - Includes filters and search for better UX
+
+- **Support Page:**  
+  - Mock support form  
+  - UI designed to demonstrate a typical support/help page
+
+- **Modern UI:**  
+  - Built with **React** and **Chakra **  
+  - Responsive and interactive
+
+## Tech Stack
+
+- **Frontend:** React  
+- **UI Library:** Chakra UI
+
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v16+)  
+- npm 
+
+### Installation
+
+```bash
+# Clone the repository
+git clone <your-repo-url>
+cd crypto-dashboard-ui
+
+# Install dependencies
+npm install i
+
+
+**Notes**
+
+⚠️ Localhost only: Does not deploy or fetch real data.
+
+All transactions and charts are mocked/fake.
+
+Designed for UI showcase and learning purposes.
+
+**Screenshort UI**
+
+<img width="1920" height="1080" alt="Screenshot (201)" src="https://github.com/user-attachments/assets/a533c5c5-51b9-4e03-947c-b337a4192741" />
+<img width="1920" height="1080" alt="Screenshot (200)" src="https://github.com/user-attachments/assets/9aa28bbc-1858-4751-b4b7-6645f8713c9b" />
+<img width="1920" height="1080" alt="Screenshot (199)" src="https://github.com/user-attachments/assets/e7701bda-0640-48dc-8194-47c0ef664f68" />
+<img width="1920" height="1080" alt="Screenshot (198)" src="https://github.com/user-attachments/assets/592fb1e7-ceed-41c6-93d9-43e50745c7a4" />
+<img width="1920" height="1080" alt="Screenshot (197)" src="https://github.com/user-attachments/assets/6ccdf8e8-2d87-4f8b-af81-65a0d59a9340" />
+<img width="1920" height="1080" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/a4d2dfd2-7bf5-4206-8a95-c907029e773f" />
+<img width="1920" height="1080" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/dfb06c49-a82c-4a26-9ab3-ac3eaac8c708" />
+<img width="1920" height="1080" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/6cb266b9-e77f-4a8d-ae4e-003bf477eb26" />
